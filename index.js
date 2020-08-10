@@ -1,4 +1,6 @@
-const URL="https://java-api-https://valida-cpf-bakc-rogerio.herokuapp.com/-bot.herokuapp.com/validacpf?cpf="
+const URL="https://valida-cpf-bakc-rogerio.herokuapp.com/validacpf?cpf="
+//https://java-api-https://valida-cpf-bakc-rogerio.herokuapp.com/-bot.herokuapp.com/validacpf?cpf=
+//https://valida-cpf-bakc-rogerio.herokuapp.com/
 function validar(){
 
 	var txtCPF = document.getElementById("txtCpf").value;
